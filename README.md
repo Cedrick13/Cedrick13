@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">a passionate IT Support Specialist and network enthusiast dedicated to solving technical problems and maintaining top system performance. My skills include configuring networks, performing system maintenance, and supporting end-users.<br><br>I am also expanding my expertise in software development by creating tools and applications with C# and MySQL to improve productivity and streamline workflows.</h2>
+<h3 align="left">a passionate IT Support Specialist and network enthusiast dedicated to solving technical problems and maintaining top system performance. My skills include configuring networks, performing system maintenance, and supporting end-users.<br><br>I am also expanding my expertise in software development by creating tools and applications with C# and MySQL to improve productivity and streamline workflows.</h3>
 
 ###
 
@@ -34,6 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
 </div>
 
 ###
