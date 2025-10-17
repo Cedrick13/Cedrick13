@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left"></p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">a passionate IT Support Specialist and network enthusiast dedicated to solving technical problems and maintaining top system performance. My skills include configuring networks, performing system maintenance, and supporting end-users.<br><br>I am also expanding my expertise in software development by creating tools and applications with C# and MySQL to improve productivity and streamline workflows.</h2>
 
 ###
 
-<p align="left">Portfolio Mirrors<br>In case the portfolio link above does not work, you can access the following mirror sites:<br><br>https://ced-portfolio.vercel.app/<br>https://cedrick13.github.io/Ced-Portfolio/#about</p>
+<p align="left">Portfolio Mirrors<br>In case the portfolio link above does not work, you can access the following mirror sites:<br><br>ced-portfolio.vercel.app<br>cedrick13.github.io</p>
 
 ###
 
