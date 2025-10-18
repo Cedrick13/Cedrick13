@@ -11,7 +11,7 @@
 ###
 
 <h1 align="left">
-   Portfolio Mirrors<br>In case the portfolio link above does not work, you can access the following mirror sites:
+  <p align="left">Portfolio Mirrors<br>In case the portfolio link above does not work, you can access the following mirror sites:</p>   
   <br><a href="https://ced-portfolio.vercel.app/" target="_blank" title="Visit my portfolio website">ced-portfolio.vercel.app</a>
   <br><a href="https://cedrick13.github.io/Ced-Portfolio/#about" target="_blank" title="Visit my portfolio website">cedrick13.github.io</a>
 </h1>
