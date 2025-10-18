@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">Portfolio Mirrors<br>In case the portfolio link above does not work, you can access the following mirror sites:<br><br>https://ced-portfolio.vercel.app/<br>https://cedrick13.github.io/Ced-Portfolio/#about</p>
+<h1 align="left">
+  Hi there 👋 I am 
+  <a href="https://ced-portfolio.vercel.app/" target="_blank">Cedrick</a>
+</h1>
 
 ###
 
