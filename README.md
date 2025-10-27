@@ -14,7 +14,9 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<br clear="both">
+
+<h3 align="left">My Technical</h3>
 
 ###
 
@@ -45,9 +47,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Cedrick13.Cedrick13&"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Cedrick13/Cedrick13/output/snake.svg" alt="Snake animation" />
 
 ###
