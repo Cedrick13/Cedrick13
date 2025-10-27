@@ -10,18 +10,11 @@
 
 ###
 
- <h3 align="left">Portfolio Mirrors</h3>
-<p align="left">
-  In case the portfolio link above does not work, you can access the following mirror sites:
-</p>
-<ul align="left">
-  <li><a href="https://ced-portfolio.vercel.app/" target="_blank">ced-portfolio.vercel.app</a></li>
-  <li><a href="https://cedrick13.github.io/Ced-Portfolio/#about" target="_blank">cedrick13.github.io</a></li>
-</ul>
+<p align="left">Portfolio Mirrors<br>In case the portfolio link above does not work, you can access the following mirror sites:<br><br>https://ced-portfolio.vercel.app/<br>https://cedrick13.github.io/Ced-Portfolio/#about</p>
 
 ###
 
-<h2 align="left">My Technical</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -46,5 +39,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Cedrick13.Cedrick13&"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cedrick13/Cedrick13/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cedrick13/Cedrick13/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cedrick13/Cedrick13/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
