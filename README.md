@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<h3 align="left">My Technical</h3>
+<h1 align="left">My Technical</h1>
 
 ###
 
