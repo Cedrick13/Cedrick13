@@ -18,7 +18,7 @@
 
 <ul>
   <li><a href="https://ced-portfolio.vercel.app/#about" target="_blank">ced-portfolio.vercel.app</a></li>
-  <li><a href="https://cedrick13.github.io/Ced-Portfolio/#about" target="_blank">cedrick13.github.io</a></li>
+  <li><a href="https://cedrick13.github.io/Portfolio/#about" target="_blank">cedrick13.github.io</a></li>
 </ul>
 
 ###
