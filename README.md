@@ -9,7 +9,7 @@
 <h3 align="left">
 I'm a passionate IT Support Specialist and Network Enthusiast dedicated to solving technical challenges and maintaining reliable, high-performing systems. I enjoy troubleshooting hardware, software, and network issues while ensuring users have the best possible technical support experience.
 
-<br><br>
+<br>
 
 Beyond IT support, I'm continuously expanding my skills in Software Development, building practical applications and tools using C#, PHP, MySQL, HTML, CSS, and JavaScript to improve productivity and streamline everyday workflows.
 </h3>
