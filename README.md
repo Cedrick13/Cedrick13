@@ -6,13 +6,13 @@
 
 ###
 
-<h3 align="left">
-I'm a passionate IT Support Specialist and Network Enthusiast dedicated to solving technical challenges and maintaining reliable, high-performing systems. I enjoy troubleshooting hardware, software, and network issues while ensuring users have the best possible technical support experience.
+<p>
+I'm a passionate <b>IT Support Specialist</b> and <b>Network Enthusiast</b> dedicated to solving technical challenges and maintaining reliable, high-performing systems. I enjoy troubleshooting hardware, software, and network issues while ensuring users have the best possible technical support experience.
+</p>
 
-<br>
-
-Beyond IT support, I'm continuously expanding my skills in Software Development, building practical applications and tools using C#, PHP, MySQL, HTML, CSS, and JavaScript to improve productivity and streamline everyday workflows.
-</h3>
+<p>
+Beyond IT support, I'm continuously expanding my skills in <b>Software Development</b>, building practical applications and tools using <b>C#, PHP, MySQL, HTML, CSS, and JavaScript</b> to improve productivity and streamline everyday workflows.
+</p>
 
 ###
 
