@@ -15,7 +15,7 @@ Beyond IT support, I'm expanding my skills in **Software Development and Web Dev
 
 <br clear="both">
 
-<h1 align="left">My Technical</h1>
+<h1 align="left">Technical Skills</h1>
 
 ###
 
