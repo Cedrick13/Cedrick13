@@ -42,9 +42,3 @@ Beyond IT support, I'm expanding my skills in **Software Development and Web Dev
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Cedrick13.Cedrick13&"  />
-</div>
-
-###
