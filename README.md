@@ -1,33 +1,30 @@
-<h1 align="left">Hi there 👋 I am Cedrick</h1>
+# Hi, I'm Cedrick Embestro 👋
 
-###
+I'm an **IT Support Specialist and Network Enthusiast** focused on solving technical problems and maintaining reliable IT systems. I have experience in **hardware and software troubleshooting, network support, system maintenance, and end-user technical support**.
 
-<p align="left"></p>
+Beyond IT support, I'm expanding my skills in **Software Development and Web Development**, working with **C#, PHP, MySQL, HTML, CSS, and JavaScript** to build practical applications and tools.
 
-###
+## 🔗 Portfolio
 
-<p>
-I'm a passionate <b>IT Support Specialist</b> and <b>Network Enthusiast</b> dedicated to solving technical challenges and maintaining reliable, high-performing systems. I enjoy troubleshooting hardware, software, and network issues while ensuring users have the best possible technical support experience.
-</p>
+- [ced-portfolio.vercel.app](https://ced-portfolio.vercel.app)
+- [cedrick13.github.io](https://cedrick13.github.io/Ced-Portfolio/)
 
-<p>
-Beyond IT support, I'm continuously expanding my skills in <b>Software Development</b>, building practical applications and tools using <b>C#, PHP, MySQL, HTML, CSS, and JavaScript</b> to improve productivity and streamline everyday workflows.
-</p>
+## 🛠️ Technical Skills
 
-###
+- IT Support & Troubleshooting
+- Networking & System Administration
+- C#
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Figma
+- Git & GitHub
 
-<h3><b>Portfolio Mirrors</b></h3>
+## 👨‍💻 About Cedrick Embestro
 
-<p>
-  In case the portfolio link above does not work, you can access the following mirror sites:
-</p>
-
-<ul>
-  <li><a href="https://ced-portfolio.vercel.app/#about" target="_blank">ced-portfolio.vercel.app</a></li>
-  <li><a href="https://cedrick13.github.io/Portfolio/#about" target="_blank">cedrick13.github.io</a></li>
-</ul>
-
-###
+**Cedrick Embestro** is an IT Support Specialist and Network Enthusiast with interests in **IT support, networking, software development, web development, and UI/UX design**.
 
 <br clear="both">
 
