@@ -9,19 +9,6 @@ Beyond IT support, I'm expanding my skills in **Software Development and Web Dev
 - [ced-portfolio.vercel.app](https://ced-portfolio.vercel.app)
 - [cedrick13.github.io](https://cedrick13.github.io/Ced-Portfolio/)
 
-## 🛠️ Technical Skills
-
-- IT Support & Troubleshooting
-- Networking & System Administration
-- C#
-- PHP
-- MySQL
-- HTML
-- CSS
-- JavaScript
-- Figma
-- Git & GitHub
-
 ## 👨‍💻 About Cedrick Embestro
 
 **Cedrick Embestro** is an IT Support Specialist and Network Enthusiast with interests in **IT support, networking, software development, web development, and UI/UX design**.
