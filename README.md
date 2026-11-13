@@ -7,7 +7,7 @@ Beyond IT support, I'm expanding my skills in **Software Development and Web Dev
 ## 🔗 Portfolio
 
 - [ced-portfolio.vercel.app](https://ced-portfolio.vercel.app/#about)
-- [cedrick13.github.io](https://cedrick13.github.io/Portfolio/#about)
+
 
 ## 👨‍💻 About Cedrick Embestro
 
